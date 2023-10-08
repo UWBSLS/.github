@@ -1,1 +1,1 @@
-# .github
+# UW Big Spoon Little Spoon
